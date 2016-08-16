@@ -1,3 +1,8 @@
+# VUUЯ DSM
+In this repository we keep track of literature and work on using word embeddings on Dutch NLP tasks such as POS tagging and parsing. This initiative came to life during one of the meeting of the CLTL (VU Amsterdam) and LaMa (Radboud University Nijmegen). We talked about the popularity of distributed (semantic) models, how we use them, and how we want to use them. It became apparent that there was unified way of using them. For example because the models are not shared, but also because for Dutch, at that time at least, there were no models ready to be downloaded and used.
+
+Things have changed a bit, and in this repository we want to keep track of D(S)Ms on Dutch NLP tasks.
+
 # By Task
 
 ## Relation evaluation
