@@ -5,6 +5,7 @@ What kinds of texts are the models trained on?
 ## Used in published work
 
 | Source | Kind | Size |
+|--------|------|------|
 | Wikipedia | Encyclopedia text | |
 | Tweets | Tweets | |
 | NLCOW | Web text | |
@@ -15,6 +16,7 @@ What kinds of texts are the models trained on?
 ## Not used yet (potential sources)
 
 | Source | Kind | Size |
+|--------|------|------|
 | Project Gutenberg | Books | |
 | Overheid.nl | Debates & Formal text | |
 | Teletekst | Short news, subtitles, weather, ... | |
