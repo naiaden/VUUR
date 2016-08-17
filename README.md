@@ -28,8 +28,8 @@ Things have changed a bit, and in this repository we want to keep track of D(S)M
 + google w2v, n5, 200 dimensions, 2.6B dutch Tweets
 
 ## Animacy Detection
-[5] *Semantic map of the characters in the Dutch Folktale Database*, Folgert Karsdorp
-+   google w2v, 6B, bron onduidelijk
+[5] *Animacy Detection in Stories*, Folgert Karsdorp, Marten van der Meulen, Theo Meder, Antal van den Bosch
++   google w2v, COW'14, 6B, 300 dimensies
 
 ## Semantic priming
 [6] *Explaining human performance in psycholinguistic tasks with models of semantic similarity based on prediction and counting: A review and empirical validation*, Paweł Mandera, Emmanuel Keuleers, Marc Brysbaert
@@ -45,6 +45,6 @@ Things have changed a bit, and in this repository we want to keep track of D(S)M
 
 [4] *N-gram Frequencies for Dutch Twitter Data*, Gosse Bouma (http://www.clinjournal.org/sites/clinjournal.org/files/bouma2015_0.pdf)
 
-[5] *Semantic map of the characters in the Dutch Folktale Database*, Folgert Karsdorp (http://www.karsdorp.io/animacy-detection/)
+[5] *Animacy Detection in Stories*, Folgert Karsdorp, Marten van der Meulen, Theo Meder, Antal van den Bosch (http://narrative.csail.mit.edu/cmn15/paper2.pdf)
 
 [6] *Explaining human performance in psycholinguistic tasks with models of semantic similarity based on prediction and counting: A review and empirical validation*, Paweł Mandera, Emmanuel Keuleers, Marc Brysbaert (http://crr.ugent.be/papers/Mandera_et_al_JML_2016.pdf)
