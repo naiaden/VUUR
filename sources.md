@@ -8,10 +8,10 @@ What kinds of texts are the models trained on?
 |--------|------|------|
 | Wikipedia | Encyclopedia text | |
 | Tweets | Tweets | |
-| NLCOW | Web text | |
-| Sonar | News | |
+| NLCOW14 | Web text | 4.7B |
+| Sonar-500 | Magazines, news papers, subtitles, wikipedia, ... | 500M |
 | Roularta | News | |
-| Subtlex | Movie subtitles | |
+| SUBTLEX-NL | Movie subtitles | 44M |
 
 ## Not used yet (potential sources)
 
