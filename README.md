@@ -33,8 +33,11 @@ Things have changed a bit, and in this repository we want to keep track of D(S)M
 
 ## Semantic priming
 [6] *Explaining human performance in psycholinguistic tasks with models of semantic similarity based on prediction and counting: A review and empirical validation*, Paweł Mandera, Emmanuel Keuleers, Marc Brysbaert
-+ Sonar500 + Subtlex 530M tokens, n1,2,3,5,10, 200 & 300 dimensions
++ gensim word2vec CBOW&SG, Sonar500 + Subtlex 530M tokens, n1,2,3,5,10, 200 & 300 dimensions
 
+## Named entity recognition
+[7] *Neural Architectures for Named Entity Recognition*, Guillaume Lample, Miguel Ballesteros, Sandeep Subramanian, Kazuya Kawakami Chris Dyer
++ Skip-n-gram, Leipzig corpus collection, 64 dimensions, 1M tokens, n8
 
 # All works referenced
 [1] *Evaluating Unsupervised Dutch Word Embeddings as a Linguistic Resource*, Stephan Tulkens, Chris Emmery, Walter Daelemans (https://arxiv.org/pdf/1607.00225v1.pdf)
@@ -48,3 +51,5 @@ Things have changed a bit, and in this repository we want to keep track of D(S)M
 [5] *Animacy Detection in Stories*, Folgert Karsdorp, Marten van der Meulen, Theo Meder, Antal van den Bosch (http://narrative.csail.mit.edu/cmn15/paper2.pdf)
 
 [6] *Explaining human performance in psycholinguistic tasks with models of semantic similarity based on prediction and counting: A review and empirical validation*, Paweł Mandera, Emmanuel Keuleers, Marc Brysbaert (http://crr.ugent.be/papers/Mandera_et_al_JML_2016.pdf)
+
+[7] *Neural Architectures for Named Entity Recognition*, Guillaume Lample, Miguel Ballesteros, Sandeep Subramanian, Kazuya Kawakami Chris Dyer (https://arxiv.org/pdf/1603.01360.pdf)
