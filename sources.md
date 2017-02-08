@@ -12,6 +12,7 @@ What kinds of texts are the models trained on?
 | Sonar-500 | Magazines, news papers, subtitles, wikipedia, ... | 500M |
 | Roularta | News | |
 | SUBTLEX-NL | Movie subtitles | 44M |
+| Leipzig corpus collection | News | 1M |
 
 ## Not used yet (potential sources)
 
