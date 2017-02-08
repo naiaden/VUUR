@@ -25,7 +25,7 @@ Things have changed a bit, and in this repository we want to keep track of D(S)M
 
 ## No task
 [4] *N-gram Frequencies for Dutch Twitter Data*, Gosse Bouma
-+ google w2v, n5, 200 dimensions, 2.6B dutch Tweets
++ google w2v, n5, 200 dimensions, 5B tokens
 
 ## Animacy Detection
 [5] *Animacy Detection in Stories*, Folgert Karsdorp, Marten van der Meulen, Theo Meder, Antal van den Bosch
